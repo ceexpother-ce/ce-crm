@@ -1,6 +1,6 @@
 # CE Express Overview
 
-CE Express is a web-based radio network planning and optimisation application built on ArcGIS Enterprise.
+CE Express is a web-based radio network planning and optimisation tool built on ArcGIS Enterprise.
 
 ## What is CE Express?
 
